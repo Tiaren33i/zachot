@@ -43,6 +43,7 @@
             button1.TabIndex = 0;
             button1.Text = "Играть";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // button2
             // 
@@ -53,6 +54,7 @@
             button2.TabIndex = 1;
             button2.Text = "Об игре";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // button3
             // 
@@ -78,9 +80,11 @@
             Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point);
             FormBorderStyle = FormBorderStyle.FixedDialog;
             Margin = new Padding(4);
+            MaximizeBox = false;
+            MinimizeBox = false;
             Name = "Form1";
             Text = "Рулетка";
-            TransparencyKey = Color.Black;
+            TransparencyKey = SystemColors.ActiveCaption;
             ResumeLayout(false);
         }
 

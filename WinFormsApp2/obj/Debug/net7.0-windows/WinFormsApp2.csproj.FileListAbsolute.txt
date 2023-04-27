@@ -16,3 +16,5 @@ D:\проекты\WinFormsApp2\obj\Debug\net7.0-windows\refint\WinFormsApp2.dll
 D:\проекты\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.pdb
 D:\проекты\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.genruntimeconfig.cache
 D:\проекты\WinFormsApp2\obj\Debug\net7.0-windows\ref\WinFormsApp2.dll
+D:\проекты\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Form2.resources
+D:\проекты\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Form3.resources
