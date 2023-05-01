@@ -37,19 +37,21 @@
             // label2
             // 
             label2.AutoSize = true;
+            label2.BackColor = Color.Gainsboro;
             label2.Font = new Font("Segoe UI", 26.25F, FontStyle.Regular, GraphicsUnit.Point);
-            label2.ForeColor = SystemColors.ButtonFace;
+            label2.ForeColor = Color.Black;
             label2.Location = new Point(293, 9);
             label2.Name = "label2";
             label2.Size = new Size(97, 47);
             label2.TabIndex = 1;
             label2.Text = "0 0 0";
+            label2.Click += label2_Click;
             // 
             // label3
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Arial Narrow", 14.25F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point);
-            label3.ForeColor = Color.White;
+            label3.ForeColor = Color.Black;
             label3.Location = new Point(3, 9);
             label3.Name = "label3";
             label3.Size = new Size(71, 23);
@@ -82,7 +84,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.Black;
+            BackColor = Color.Gainsboro;
             ClientSize = new Size(734, 401);
             Controls.Add(button2);
             Controls.Add(button1);
