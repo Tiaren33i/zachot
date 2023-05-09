@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\проекты\\WinFormsApp2\\WinFormsApp2.csproj": {}
+    "C:\\Users\\miron\\OneDrive\\Рабочий стол\\zachot-main\\WinFormsApp2\\WinFormsApp2.csproj": {}
   },
   "projects": {
-    "D:\\проекты\\WinFormsApp2\\WinFormsApp2.csproj": {
+    "C:\\Users\\miron\\OneDrive\\Рабочий стол\\zachot-main\\WinFormsApp2\\WinFormsApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\проекты\\WinFormsApp2\\WinFormsApp2.csproj",
+        "projectUniqueName": "C:\\Users\\miron\\OneDrive\\Рабочий стол\\zachot-main\\WinFormsApp2\\WinFormsApp2.csproj",
         "projectName": "WinFormsApp2",
-        "projectPath": "D:\\проекты\\WinFormsApp2\\WinFormsApp2.csproj",
+        "projectPath": "C:\\Users\\miron\\OneDrive\\Рабочий стол\\zachot-main\\WinFormsApp2\\WinFormsApp2.csproj",
         "packagesPath": "C:\\Users\\miron\\.nuget\\packages\\",
-        "outputPath": "D:\\проекты\\WinFormsApp2\\obj\\",
+        "outputPath": "C:\\Users\\miron\\OneDrive\\Рабочий стол\\zachot-main\\WinFormsApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\пакеты SDK\\NuGetPackages"

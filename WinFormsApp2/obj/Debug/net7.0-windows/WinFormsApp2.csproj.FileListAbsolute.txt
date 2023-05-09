@@ -18,3 +18,43 @@ D:\проекты\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.genruntimec
 D:\проекты\WinFormsApp2\obj\Debug\net7.0-windows\ref\WinFormsApp2.dll
 D:\проекты\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Form2.resources
 D:\проекты\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Form3.resources
+C:\Users\elema\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\elema\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Form1.resources
+C:\Users\elema\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Form2.resources
+C:\Users\elema\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Form3.resources
+C:\Users\elema\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\elema\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\elema\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elema\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\elema\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\elema\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\elema\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.dll
+C:\Users\elema\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\refint\WinFormsApp2.dll
+C:\Users\elema\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.pdb
+C:\Users\elema\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.exe
+C:\Users\elema\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.deps.json
+C:\Users\elema\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\elema\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.dll
+C:\Users\elema\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.pdb
+C:\Users\elema\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\elema\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\ref\WinFormsApp2.dll
+C:\Users\miron\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.exe
+C:\Users\miron\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.deps.json
+C:\Users\miron\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\miron\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.dll
+C:\Users\miron\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.pdb
+C:\Users\miron\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\miron\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Form1.resources
+C:\Users\miron\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Form2.resources
+C:\Users\miron\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Form3.resources
+C:\Users\miron\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\miron\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\miron\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miron\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\miron\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\miron\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\miron\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.dll
+C:\Users\miron\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\refint\WinFormsApp2.dll
+C:\Users\miron\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.pdb
+C:\Users\miron\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\miron\OneDrive\Рабочий стол\zachot-main\WinFormsApp2\obj\Debug\net7.0-windows\ref\WinFormsApp2.dll
